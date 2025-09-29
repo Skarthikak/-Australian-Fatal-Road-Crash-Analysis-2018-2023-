@@ -77,6 +77,8 @@ Road safety campaigns for young drivers.
 Weekend afternoon enforcement.
 
 Highway safety improvements.
+<img width="1376" height="769" alt="Screenshot 2025-09-29 195531" src="https://github.com/user-attachments/assets/df84f5ec-7d81-4a44-89a0-40fa8f7ba2ce" />
+
 
 📂 Repository Structure /images # Dashboard screenshots Australia_Crash.pbix # Power BI project file README.md # Project documentation
 🚀 Next Steps (Professional Expansion)
@@ -84,5 +86,8 @@ Add rolling averages and YOY comparisons.
 Integrate population data to show crash rates per 100k residents.
 Enable scheduled refresh with live datasets.
 Build a Tableau version for cross-tool comparison.
+
+<img width="1374" height="766" alt="Screenshot 2025-09-29 200401" src="https://github.com/user-attachments/assets/4c32325c-e532-47a6-a7f6-0b6602ded789" />
+
 
 ✅ With this project, I practiced real-world analyst skills: data cleaning, modeling, dashboard design, and storytelling — making it a strong addition to my data analytics portfolio.
