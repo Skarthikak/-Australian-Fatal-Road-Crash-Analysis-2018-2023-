@@ -1,7 +1,6 @@
 🚦 Australian Fatal Road Crash Analysis (2018–2023)
 
-📌 Project Overview
-This project analyzes fatal road crashes in Australia (2018–2023) using the Australian Road Deaths Database (ARDD). The goal was to build professional visualizations in Power BI to identify patterns, high-risk demographics, and peak times for crashes.
+📌 Project Overview: This project analyzes fatal road crashes in Australia (2018–2023) using the Australian Road Deaths Database (ARDD). The goal was to build professional visualizations in Power BI to identify patterns, high-risk demographics, and peak times for crashes.
 
 The project demonstrates end-to-end data cleaning, modeling, visualization, and storytelling, following real-world data analyst practices.
 
