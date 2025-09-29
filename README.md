@@ -67,6 +67,8 @@ Location: NSW, VIC, QLD have the most crashes; NT/WA are high relative to popula
 Crash Type: Single-vehicle and highway crashes dominate.
 Demographics: Young males (17–25) are most at risk.
 Holiday Effect: Holiday crashes get attention but account for only a small fraction.
+<img width="1368" height="770" alt="Screenshot 2025-09-29 202536" src="https://github.com/user-attachments/assets/0ba41b7c-845f-4450-a27f-706d0f6e8062" />
+
 
 📝 Conclusion
 
@@ -76,7 +78,7 @@ Road safety campaigns for young drivers.
 Weekend afternoon enforcement.
 
 Highway safety improvements.
-<img width="1376" height="769" alt="Screenshot 2025-09-29 195531" src="https://github.com/user-attachments/assets/df84f5ec-7d81-4a44-89a0-40fa8f7ba2ce" />
+<img width="1532" height="856" alt="Screenshot 2025-09-29 202709" src="https://github.com/user-attachments/assets/d7d80ce0-d9d5-4bbd-9bc1-f6dd3bf5fff8" />
 
 
 📂 Repository Structure /images # Dashboard screenshots Australia_Crash.pbix # Power BI project file README.md # Project documentation
@@ -86,7 +88,7 @@ Integrate population data to show crash rates per 100k residents.
 Enable scheduled refresh with live datasets.
 Build a Tableau version for cross-tool comparison.
 
-<img width="1374" height="766" alt="Screenshot 2025-09-29 200401" src="https://github.com/user-attachments/assets/4c32325c-e532-47a6-a7f6-0b6602ded789" />
+<img width="1541" height="869" alt="Screenshot 2025-09-29 202651" src="https://github.com/user-attachments/assets/5d71c105-c97a-4bf1-add8-f124e505d1fc" />
 
 
 ✅ With this project, I practiced real-world analyst skills: data cleaning, modeling, dashboard design, and storytelling — making it a strong addition to my data analytics portfolio.
